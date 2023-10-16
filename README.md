@@ -1,1 +1,1 @@
-# PRO-C152-ADDING-CLICK-EVENTS
+# PRO-C152-Activity-Reference
